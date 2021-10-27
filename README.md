@@ -21,7 +21,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-     <img width="40" height="40" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/> 
+     <img width="40" height="40" src="https://www.freepik.com/free-icon/html-5_14840968.htm#page=1&query=html%20logo&position=11&from_view=keyword"/> 
      <img width="40" height="40" src="https://img.icons8.com/color/48/000000/css3.png"/>
      <img width="40" height="40" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-hq-png-1.png"/>
      <img width="40" height="40" src="https://img.icons8.com/color/48/000000/react-native.png"/>    
