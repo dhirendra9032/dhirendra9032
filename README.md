@@ -28,7 +28,7 @@
      <img width="40" height="40" src="https://img.icons8.com/color/2x/redux.png"/>
      <img width="40" height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
      <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-     <img width="40" height="40" src="http://assets.stickpng.com/thumbs/5847f98fcef1014c0b5e48c0.png"/>    
+     <img width="40" height="40" src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png"/>    
      <img width="40" height="40" src="http://assets.stickpng.com/thumbs/58480f66cef1014c0b5e4938.png"/>
      <img width="40" height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
      <img width="40" height="40" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"/>
