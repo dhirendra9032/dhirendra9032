@@ -21,12 +21,12 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-     <img width="40" height="40" src="https://www.freepik.com/free-icon/html-5_14840968.htm#page=1&query=html%20logo&position=11&from_view=keyword"/> 
-     <img width="40" height="40" src="https://img.icons8.com/color/48/000000/css3.png"/>
-     <img width="40" height="40" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-hq-png-1.png"/>
-     <img width="40" height="40" src="https://img.icons8.com/color/48/000000/react-native.png"/>    
-     <img width="40" height="40" src=" https://img.icons8.com/color/48/000000/bootstrap.png"/>
-      <img width="40" height="40" src="   https://img.icons8.com/color/48/000000/redux.png"/>
+     <img width="40" height="40" src="https://img.icons8.com/color/2x/html-5.png"/> 
+     <img width="40" height="40" src="https://img.icons8.com/color/2x/css3.png"/>
+     <img width="40" height="40" src="https://img.icons8.com/color/2x/javascript--v2.gif"/>
+     <img width="40" height="40" src="https://img.icons8.com/color/48/000000/react-native.png">    
+     <img width="40" height="40" src=" https://img.icons8.com/color/2x/redux.png"/>
+      <img width="40" height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
      <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
      <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>    
      <img width="40" height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
