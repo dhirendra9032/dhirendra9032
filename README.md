@@ -21,16 +21,16 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-     <img style="width:60px height:60px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/> 
-     <img style="width:60px height:60px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-     <img style="width:60px height:60px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-hq-png-1.png"/>
-     <img style="width:60px height:60px" src="https://img.icons8.com/color/48/000000/react-native.png"/>    
-     <img style="width:60px height:60px" src=" https://img.icons8.com/color/48/000000/bootstrap.png"/>
-      <img style="width:60px height:60px" src="   https://img.icons8.com/color/48/000000/redux.png"/>
-     <img style="width:60px height:60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-     <img style="width:60px height:60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>    
-     <img style="width:60px height:60px" src="https://img.icons8.com/color/48/000000/git.png"/>
-      <img style="width:60px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"/>
+     <img style="width:40px height:40px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"/> 
+     <img style="width:40px height:40px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+     <img style="width:40px height:40px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-hq-png-1.png"/>
+     <img style="width:40px height:40px" src="https://img.icons8.com/color/48/000000/react-native.png"/>    
+     <img style="width:40px height:40px" src=" https://img.icons8.com/color/48/000000/bootstrap.png"/>
+      <img style="width:40px height:40px" src="   https://img.icons8.com/color/48/000000/redux.png"/>
+     <img style="width:40px height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+     <img style="width:40px height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>    
+     <img style="width:40px height:40px" src="https://img.icons8.com/color/48/000000/git.png"/>
+      <img style="width:40px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"/>
     
      
      
