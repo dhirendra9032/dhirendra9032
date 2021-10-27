@@ -29,7 +29,7 @@
      <img width="40" height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
      <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
      <img width="40" height="40" src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png"/>    
-     <img width="40" height="40" src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.e62b12d489.svg"/>
+     <img width="40" height="40" src="https://img.icons8.com/color/2x/material-ui.png"/>
      <img width="40" height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
      <img width="40" height="40" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"/>
     
