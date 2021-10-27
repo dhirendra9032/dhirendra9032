@@ -1,5 +1,5 @@
 # Hi there 👋
-
+I am Dhirendra Kumar. I am Uttar Pradesh, India. I am an aspiring Full-Stack web developer. I really enjoy learning languages and framework like React, Next.js.
 
 <!--
 **dhirendra9032/dhirendra9032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
