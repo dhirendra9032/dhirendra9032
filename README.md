@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Gab.com Clone](https://github.com/jai6013/Gab_Clone)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms,React,Next.js.**
 
