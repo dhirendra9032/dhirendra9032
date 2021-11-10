@@ -1,4 +1,4 @@
-<a href="#"><img width="60%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px" margin-left="10px"/></a>
+<a href="#"><img width="60%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px" margin-right="0px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhirendra Kumar</h1>
 <h3 align="center">I'm an passionate Full-Stack Web Developer from Uttar Pradesh,India. I really enjoy learning languages and framworks like React, Next.js etc</h3>
