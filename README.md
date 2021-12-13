@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on *Presonal Project Labour_Mandi* **[Gab.com Clone](https://github.com/jai6013/Gab_Clone)** -->
+🔭 I’m currently working on *Presonal Project Labour_Mandi* <!--  *[Gab.com Clone](https://github.com/jai6013/Gab_Clone)* -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithms,React,Next.js.**
 
